@@ -6,3 +6,5 @@ insert into alien values (105,'Chennai');
 insert into alien values (106,'CICD');
 insert into alien values (107,'Example');
 insert into alien values (108,'Bamboo');
+insert into alien values (109,'GPS');
+insert into alien values (110,'OIT');
